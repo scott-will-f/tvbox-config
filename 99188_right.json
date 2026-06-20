@@ -1,7 +1,9 @@
 {
 "spider":"./jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
-"lives":[{"name":"初秋语","type":0,"url":"./listx.txt"},
+"lives":[
+  {"name":"直播","type":0,"url":"./list.m3u"},
+  {"name":"初秋语","type":0,"url":"./listx.txt"},
 {"name":"atsushi","type":0,"url":"https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"},
 {"name":"AV","type":0,"url":"./livex.m3u"}
 ],
